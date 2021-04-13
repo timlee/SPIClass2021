@@ -1,3 +1,3 @@
 # SPIClass2021
-SPI class s2021
+SPI class 2021
 2021/4/13
